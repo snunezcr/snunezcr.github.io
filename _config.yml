@@ -1,30 +1,5 @@
-name: Santiago Nunez-Corrales
-
-description: Whole Tale Internship 2018 - scientific repliation with MaxEnt
-
-footer-links:
-  email: snunezcr@gmail.com
-  linkedin: https://www.linkedin.com/in/snunez/
-  twitter: snunezcr
-
-disqus:
-
-google_analytics:
-
-theme: jekyll-theme-minimal
-
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-sass:
-  style: :expanded
-
-gems:
-  - jekyll-sitemap
-  - jekyll-feed
+theme: jekyll-theme-cayman
+title: Whole Tale Summer Internship 2018
+tagline: "Santiago Nunez-Corrales"
+description: Whole Tale Internship 2018 - Scientific Reproducibility with MaxEnt
+github_username:  snunezcr
