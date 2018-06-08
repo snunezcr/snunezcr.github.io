@@ -1,8 +1,6 @@
 The Whole Tale: ecological niche modeling with MaxEnt
 =====================================================
 
-## Santiago Nunez-Corrales
-
 At present, I am a doctoral candidate at the [University
 of Illinois at Urbana-Champaign](http://www.illinois.edu) 
 in [Informatics](http://informatics.illinois.edu). This
