@@ -6,7 +6,7 @@ footer-links:
   email: snunezcr@gmail.com
   linkedin: https://www.linkedin.com/in/snunez/
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-sitemap
