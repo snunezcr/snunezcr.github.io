@@ -4,9 +4,11 @@ The Whole Tale: ecological niche modeling with MaxEnt
 At present, I am a doctoral candidate at the [University
 of Illinois at Urbana-Champaign](http://www.illinois.edu) 
 in [Informatics](http://informatics.illinois.edu). This
-Summer 2018 I was fortunately accepted as an intern in the Whole Tale
-Project and mentored by Prof. Betram Ludaescher, faculty
-at the iSchool and NCSA.
+Summer 2018 I was fortunately accepted as an intern in the [Whole Tale
+Project](https://wholetale.org) and mentored by 
+[Prof. Betram Ludaescher](https://ischool.illinois.edu/people/faculty/ludaesch), faculty
+at the [iSchool](https://ischool.illinois.edu) and 
+[NCSA](https://ischool.illinois.edu).
 
 My project focuses on reproducibility of ecological niche
 models. In practice, collecting and cataloguing organisms
