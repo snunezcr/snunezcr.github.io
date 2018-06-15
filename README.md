@@ -34,3 +34,7 @@ while remaining parsimonious.
 The ongoing coding efforts are hosted at the 
 [iDAKS MaxEnt](https://github.com/idaks/intros-MaxEnt) GitHub repository.
 
+
+Weekly reports:
+
+- [Week 1](_posts/2018-05-25-Week-1.md)
