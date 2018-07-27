@@ -38,7 +38,7 @@ The final product can be downloaded as a Jupyter notebook [here](maxent-notebook
 
 ## Weekly reports:
 
-- [Week 10: 2018-07-27](_posts/2018-07-20-Week-10.md)
+- [Week 10: 2018-07-27](_posts/2018-07-27-Week-10.md)
 - [Week 9: 2018-07-20](_posts/2018-07-20-Week-9.md)
 - [Week 8: 2018-06-13](_posts/2018-07-13-Week-8.md)
 - [Week 7: 2018-07-06](_posts/2018-07-06-Week-7.md)
