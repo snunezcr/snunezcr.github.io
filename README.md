@@ -37,6 +37,8 @@ The ongoing coding efforts are hosted at the
 
 ## Weekly reports:
 
+- [Week 9: 2018-07-20](_posts/2018-07-20-Week-9.md)
+- [Week 8: 2018-06-13](_posts/2018-07-13-Week-8.md)
 - [Week 7: 2018-07-06](_posts/2018-07-06-Week-7.md)
 - [Week 6: 2018-06-29](_posts/2018-06-29-Week-6.md)
 - [Week 5: 2018-06-21](_posts/2018-06-22-Week-5.md)
